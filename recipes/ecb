@@ -1,4 +1,5 @@
 (ecb
  :fetcher github
- :repo "Atomlogik/ecb"
+ :repo "ecb-org/ecb"
+ :branch "release"
  :files ("*.el" "ecb-images" "ecb2" "ecb.texi"))
